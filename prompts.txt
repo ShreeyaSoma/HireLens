@@ -1,0 +1,11 @@
+Looking for a Python Developer with experience in Flask, REST APIs, and Git. Candidates should have worked on microservices or backend automation. Familiarity with cloud deployments (AWS) and testing frameworks like PyTest is a bonus.
+
+
+We are hiring a backend developer with expertise in Python, Django, REST APIs, and deployment on AWS. Experience with CI/CD and Docker preferred.
+
+
+Seeking an Android Developer with expertise in Kotlin, Jetpack Compose, Firebase, and mobile performance profiling. Must have 2 years’ experience in publishing apps on Play Store.
+
+
+We need a full-stack engineer with strong experience in React, Node.js, Express, MongoDB, and REST APIs. Bonus for familiarity with Next.js, GraphQL, Docker, or ElasticSearch. Looking for someone with 3+ years’ experience in agile teams.
+

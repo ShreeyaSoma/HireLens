@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#009688"                  # Teal (for buttons, sliders, highlights)
+backgroundColor="#f4f4f4"               # Light neutral background
+secondaryBackgroundColor="#e0f2f1"      # Soft pastel teal for panels
+textColor="#222222"                     # Dark gray (clean, high contrast)
+font="sans serif"                       # Sleek, modern font
